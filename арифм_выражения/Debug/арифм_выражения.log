@@ -1,0 +1,15 @@
+﻿Сборка начата 23.04.2015 20:54:09.
+     1>Проект "C:\Users\Мария\Desktop\Лабы 4 семестр\Не принято\арифм_выражения_str\арифм_выражения\арифм_выражения.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\мария\desktop\лабы 4 семестр\не принято\арифм_выражения_str\арифм_выражения\main.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\мария\desktop\лабы 4 семестр\не принято\арифм_выражения_str\арифм_выражения\main.cpp(129): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Мария\Desktop\Лабы 4 семестр\Не принято\арифм_выражения_str\Debug\арифм_выражения.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Мария\Desktop\Лабы 4 семестр\Не принято\арифм_выражения_str\Debug\арифм_выражения.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Мария\Desktop\Лабы 4 семестр\Не принято\арифм_выражения_str\Debug\арифм_выражения.lib" /MACHINE:X86 Debug\main.obj
+         арифм_выражения.vcxproj -> C:\Users\Мария\Desktop\Лабы 4 семестр\Не принято\арифм_выражения_str\Debug\арифм_выражения.exe
+     1>Сборка проекта "C:\Users\Мария\Desktop\Лабы 4 семестр\Не принято\арифм_выражения_str\арифм_выражения\арифм_выражения.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.34
